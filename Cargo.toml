@@ -1,0 +1,12 @@
+[package]
+name = "webdevutils"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vincent Dowling"]
+license = "MIT License"
+publish = false
+
+[dependencies]
+axum = "0.7"
+config = "0.14"
+log = "0.4"
